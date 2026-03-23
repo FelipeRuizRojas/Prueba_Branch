@@ -2,7 +2,7 @@ package com.example.PruebaBranch.PruebaBranch;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-//Version 1
+//Version 2
 @SpringBootApplication
 public class PruebaBranchApplication {
 
